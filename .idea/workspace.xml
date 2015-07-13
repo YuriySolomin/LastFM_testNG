@@ -28,6 +28,7 @@
     <list default="true" id="3c55df2e-1b21-4a51-bd05-029ad89cdd84" name="Default" comment="" />
     <ignored path="LastFM_testNG.iws" />
     <ignored path=".idea/workspace.xml" />
+    <file path="/LoginPage.java" changelist="3c55df2e-1b21-4a51-bd05-029ad89cdd84" time="1436786708329" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -124,7 +125,9 @@
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
             <state line="144" column="8" selection-start="3962" selection-end="3962" vertical-scroll-proportion="-6.32">
-              <folding />
+              <folding>
+                <marker date="1436785659929" expanded="true" signature="104:4276" placeholder="..." />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -138,10 +141,28 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="SampleTestNgTest.java" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="SampleTestNgTest.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/LastFM_testNG/SampleTestNgTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="25" column="28" selection-start="566" selection-end="566" vertical-scroll-proportion="0.37910798">
+            <state line="23" column="8" selection-start="563" selection-end="563" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="LoginPage.java" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/java/LastFM_testNG/pages/LoginPage.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="13" column="23" selection-start="224" selection-end="224" vertical-scroll-proportion="0.25938967">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="HomePage.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/LastFM_testNG/pages/HomePage.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="17" column="18" selection-start="406" selection-end="425" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -177,6 +198,7 @@
       <list>
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/test/resources/application.properties" />
+        <option value="$PROJECT_DIR$/src/test/java/LastFM_testNG/pages/LoginPage.java" />
       </list>
     </option>
   </component>
@@ -286,6 +308,36 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="LastFM_testNG" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="LastFM_testNG" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="LastFM_testNG" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="LastFM_testNG" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="pages" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -561,7 +613,9 @@
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state line="144" column="8" selection-start="3962" selection-end="3962" vertical-scroll-proportion="-6.32">
-          <folding />
+          <folding>
+            <marker date="1436785659929" expanded="true" signature="104:4276" placeholder="..." />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -588,7 +642,21 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/LastFM_testNG/SampleTestNgTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="25" column="28" selection-start="566" selection-end="566" vertical-scroll-proportion="0.37910798">
+        <state line="23" column="8" selection-start="563" selection-end="563" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/LastFM_testNG/pages/HomePage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="17" column="18" selection-start="406" selection-end="425" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/LastFM_testNG/pages/LoginPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="23" selection-start="224" selection-end="224" vertical-scroll-proportion="0.25938967">
           <folding />
         </state>
       </provider>
