@@ -2,9 +2,12 @@ package LastFM_testNG;
 
 import java.io.IOException;
 
+import LastFM_testNG.pages.BasePage;
+import LastFM_testNG.pages.Page;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.Capabilities;
 
+import org.openqa.selenium.support.PageFactory;
 import org.testng.annotations.AfterSuite;
 import org.testng.annotations.BeforeMethod;
 import org.testng.annotations.BeforeSuite;
@@ -22,8 +25,10 @@ public class TestNgTestBase {
   protected static String gridHubUrl;
   protected static String baseUrl;
   protected static Capabilities capabilities;
+  protected BasePage page;
 
   protected WebDriver driver;
+
 
   @BeforeSuite
   public void initTestSuite() throws IOException {
@@ -39,6 +44,7 @@ public class TestNgTestBase {
   @BeforeMethod
   public void initWebDriver() {
     driver = WebDriverFactory.getDriver(gridHubUrl, capabilities);
+    page = new BasePage(driver);
   }
 
   @AfterSuite(alwaysRun = true)

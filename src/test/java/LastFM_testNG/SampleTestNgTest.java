@@ -1,25 +1,41 @@
 package LastFM_testNG;
 
+import LastFM_testNG.pages.*;
 import org.openqa.selenium.support.PageFactory;
 
 import org.testng.Assert;
 import org.testng.annotations.BeforeMethod;
 import org.testng.annotations.Test;
 
-import LastFM_testNG.pages.HomePage;
-
 public class SampleTestNgTest extends TestNgTestBase {
 
-  private HomePage homepage;
+  private HomePage homePage;
+  private LoginPage loginPage;
+  private MainPage mainPage;
+  private GeneralChartsPage generalChartsPage;
+  private TracksPage tracksPage;
 
   @BeforeMethod
   public void initPageObjects() {
-    homepage = PageFactory.initElements(driver, HomePage.class);
+    homePage = page.createPage(HomePage.class);
   }
 
   @Test
   public void testHomePageHasAHeader() {
     driver.get(baseUrl);
-    Assert.assertFalse("".equals(homepage.header.getText()));
+    Assert.assertFalse("".equals(homePage.header.getText()));
+  }
+
+  @Test
+  public void testLastFMLoginPage() {
+    driver.get(baseUrl);
+    loginPage = homePage.clickLoginLink();
+    loginPage.setLogin("YurijSol");
+    loginPage.setPassword("bfubhfwww");
+    mainPage = loginPage.clickLoginButton();
+    generalChartsPage = mainPage.clickLinkToCharts();
+    tracksPage = generalChartsPage.clickLinkToTracks();
+    tracksPage.clickSwitchToCompact().workWithTracks();
+    System.out.println();
   }
 }

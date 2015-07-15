@@ -5,6 +5,7 @@ import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.CacheLookup;
 import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.How;
+import org.openqa.selenium.support.PageFactory;
 
 /**
  * Sample page
@@ -15,7 +16,16 @@ public class HomePage extends Page {
   @CacheLookup
   public WebElement header;
 
+  @FindBy(how = How.ID, using = "login-link")
+  public WebElement loginLink;
+
   public HomePage(WebDriver webDriver) {
     super(webDriver);
   }
+
+  public LoginPage clickLoginLink() {
+    loginLink.click();
+    return createPage(LoginPage.class);
+  }
+
 }
