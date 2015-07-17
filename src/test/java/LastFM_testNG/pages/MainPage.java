@@ -6,6 +6,7 @@ import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.How;
 
 import javax.xml.ws.WebEndpoint;
+import java.util.List;
 
 /**
  * Created with IntelliJ IDEA.
@@ -20,6 +21,7 @@ public class MainPage extends Page {
   @FindBy(css = ".user-badge")
   public WebElement linkToChartsPage;
 
+
   public MainPage(WebDriver webDriver) {
     super(webDriver);
   }
@@ -33,5 +35,6 @@ public class MainPage extends Page {
     driver.get(myLastFMChartsLink);
     return createPage(GeneralChartsPage.class);
   }
+
 
 }

@@ -30,20 +30,35 @@
     <ignored path=".idea/workspace.xml" />
     <file path="/LoginPage.java" changelist="3c55df2e-1b21-4a51-bd05-029ad89cdd84" time="1436946741093" ignored="false" />
     <file path="/HomePage.java" changelist="3c55df2e-1b21-4a51-bd05-029ad89cdd84" time="1436946099452" ignored="false" />
-    <file path="/a.java" changelist="3c55df2e-1b21-4a51-bd05-029ad89cdd84" time="1436941883265" ignored="false" />
-    <file path="/Dummy.txt" changelist="3c55df2e-1b21-4a51-bd05-029ad89cdd84" time="1436942063661" ignored="false" />
-    <file path="/SampleTestNgTest.java" changelist="3c55df2e-1b21-4a51-bd05-029ad89cdd84" time="1436955030541" ignored="false" />
+    <file path="/a.java" changelist="3c55df2e-1b21-4a51-bd05-029ad89cdd84" time="1437125675811" ignored="false" />
+    <file path="/Dummy.txt" changelist="3c55df2e-1b21-4a51-bd05-029ad89cdd84" time="1437112797378" ignored="false" />
+    <file path="/SampleTestNgTest.java" changelist="3c55df2e-1b21-4a51-bd05-029ad89cdd84" time="1437121868659" ignored="false" />
     <file path="/fragment.java" changelist="3c55df2e-1b21-4a51-bd05-029ad89cdd84" time="1436960755102" ignored="false" />
-    <file path="/MainPage.java" changelist="3c55df2e-1b21-4a51-bd05-029ad89cdd84" time="1436949682084" ignored="false" />
+    <file path="/MainPage.java" changelist="3c55df2e-1b21-4a51-bd05-029ad89cdd84" time="1437121768164" ignored="false" />
     <file path="/TestNgTestBase.java" changelist="3c55df2e-1b21-4a51-bd05-029ad89cdd84" time="1436946656708" ignored="false" />
     <file path="/Page.java" changelist="3c55df2e-1b21-4a51-bd05-029ad89cdd84" time="1436946250532" ignored="false" />
     <file path="/BasePage.java" changelist="3c55df2e-1b21-4a51-bd05-029ad89cdd84" time="1436946541341" ignored="false" />
-    <file path="/GeneralChartsPage.java" changelist="3c55df2e-1b21-4a51-bd05-029ad89cdd84" time="1436950174860" ignored="false" />
+    <file path="/GeneralChartsPage.java" changelist="3c55df2e-1b21-4a51-bd05-029ad89cdd84" time="1437126764931" ignored="false" />
     <file path="/TracksPage.java" changelist="3c55df2e-1b21-4a51-bd05-029ad89cdd84" time="1436960840340" ignored="false" />
     <file path="/Tracks.java" changelist="3c55df2e-1b21-4a51-bd05-029ad89cdd84" time="1436953389300" ignored="false" />
     <file path="/Band.java" changelist="3c55df2e-1b21-4a51-bd05-029ad89cdd84" time="1436958491028" ignored="false" />
     <file path="/History.java" changelist="3c55df2e-1b21-4a51-bd05-029ad89cdd84" time="1436958593229" ignored="false" />
     <file path="/Track.java" changelist="3c55df2e-1b21-4a51-bd05-029ad89cdd84" time="1436958532388" ignored="false" />
+    <file path="/LastFMService.java" changelist="3c55df2e-1b21-4a51-bd05-029ad89cdd84" time="1437114036913" ignored="false" />
+    <file path="/StorageDataFactory.java" changelist="3c55df2e-1b21-4a51-bd05-029ad89cdd84" time="1437113991113" ignored="false" />
+    <file path="/DatabaseStorage.java" changelist="3c55df2e-1b21-4a51-bd05-029ad89cdd84" time="1437114176714" ignored="false" />
+    <file path="$PROJECT_DIR$/../education/pom.xml" changelist="3c55df2e-1b21-4a51-bd05-029ad89cdd84" time="1437116010220" ignored="false" />
+    <file path="$PROJECT_DIR$/../education/src/main/java/education/App.java" changelist="3c55df2e-1b21-4a51-bd05-029ad89cdd84" time="1437116010220" ignored="false" />
+    <file path="$PROJECT_DIR$/../education/src/main/java/education/BaseService.java" changelist="3c55df2e-1b21-4a51-bd05-029ad89cdd84" time="1437118883697" ignored="false" />
+    <file path="/BaseService.java" changelist="3c55df2e-1b21-4a51-bd05-029ad89cdd84" time="1437118882146" ignored="false" />
+    <file path="$PROJECT_DIR$/../education/src/main/java/education/EducateObjectsFactory.java" changelist="3c55df2e-1b21-4a51-bd05-029ad89cdd84" time="1437116692903" ignored="false" />
+    <file path="/EducateObjectsFactory.java" changelist="3c55df2e-1b21-4a51-bd05-029ad89cdd84" time="1437116664293" ignored="false" />
+    <file path="$PROJECT_DIR$/../education/src/main/java/education/stringIssues/StringTasks.java" changelist="3c55df2e-1b21-4a51-bd05-029ad89cdd84" time="1437122955845" ignored="false" />
+    <file path="/StringTasks.java" changelist="3c55df2e-1b21-4a51-bd05-029ad89cdd84" time="1437122917683" ignored="false" />
+    <file path="$PROJECT_DIR$/../education/src/main/java/education/stringIssues/StringIssue.java" changelist="3c55df2e-1b21-4a51-bd05-029ad89cdd84" time="1437118372669" ignored="false" />
+    <file path="/LastFMObjectFactory.java" changelist="3c55df2e-1b21-4a51-bd05-029ad89cdd84" time="1437122855573" ignored="false" />
+    <file path="/BandsPage.java" changelist="3c55df2e-1b21-4a51-bd05-029ad89cdd84" time="1437126217870" ignored="false" />
+    <file path="/sample.java" changelist="3c55df2e-1b21-4a51-bd05-029ad89cdd84" time="1437125683431" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,53 +73,6 @@
     <disable_hints />
   </component>
   <component name="DebuggerManager">
-    <line_breakpoints default_suspend_policy="SuspendAll" default_condition_enabled="true">
-      <breakpoint url="file://$PROJECT_DIR$/src/test/java/LastFM_testNG/SampleTestNgTest.java" line="25" class="LastFM_testNG.SampleTestNgTest" package="LastFM_testNG">
-        <option name="ENABLED" value="true" />
-        <option name="LOG_ENABLED" value="false" />
-        <option name="LOG_EXPRESSION_ENABLED" value="false" />
-        <option name="REMOVE_AFTER_HIT" value="false" />
-        <option name="SUSPEND_POLICY" value="SuspendAll" />
-        <option name="SUSPEND" value="true" />
-        <option name="COUNT_FILTER_ENABLED" value="false" />
-        <option name="COUNT_FILTER" value="0" />
-        <option name="CONDITION_ENABLED" value="true" />
-        <option name="CLASS_FILTERS_ENABLED" value="false" />
-        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
-        <option name="CONDITION" value="" />
-        <option name="LOG_MESSAGE" value="" />
-      </breakpoint>
-      <breakpoint url="file://$PROJECT_DIR$/src/test/java/LastFM_testNG/SampleTestNgTest.java" line="38" class="LastFM_testNG.SampleTestNgTest" package="LastFM_testNG">
-        <option name="ENABLED" value="true" />
-        <option name="LOG_ENABLED" value="false" />
-        <option name="LOG_EXPRESSION_ENABLED" value="false" />
-        <option name="REMOVE_AFTER_HIT" value="false" />
-        <option name="SUSPEND_POLICY" value="SuspendAll" />
-        <option name="SUSPEND" value="true" />
-        <option name="COUNT_FILTER_ENABLED" value="false" />
-        <option name="COUNT_FILTER" value="0" />
-        <option name="CONDITION_ENABLED" value="true" />
-        <option name="CLASS_FILTERS_ENABLED" value="false" />
-        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
-        <option name="CONDITION" value="" />
-        <option name="LOG_MESSAGE" value="" />
-      </breakpoint>
-      <breakpoint url="file://$PROJECT_DIR$/src/test/java/LastFM_testNG/pages/TracksPage.java" line="51" class="LastFM_testNG.pages.TracksPage" package="LastFM_testNG.pages">
-        <option name="ENABLED" value="true" />
-        <option name="LOG_ENABLED" value="false" />
-        <option name="LOG_EXPRESSION_ENABLED" value="false" />
-        <option name="REMOVE_AFTER_HIT" value="false" />
-        <option name="SUSPEND_POLICY" value="SuspendAll" />
-        <option name="SUSPEND" value="true" />
-        <option name="COUNT_FILTER_ENABLED" value="false" />
-        <option name="COUNT_FILTER" value="0" />
-        <option name="CONDITION_ENABLED" value="true" />
-        <option name="CLASS_FILTERS_ENABLED" value="false" />
-        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
-        <option name="CONDITION" value="" />
-        <option name="LOG_MESSAGE" value="" />
-      </breakpoint>
-    </line_breakpoints>
     <ui_properties default_suspend_policy="SuspendAll" default_condition_enabled="true" />
     <breakpoint_any default_suspend_policy="SuspendAll" default_condition_enabled="true">
       <breakpoint>
@@ -142,6 +110,68 @@
         <option name="LOG_MESSAGE" value="" />
       </breakpoint>
     </breakpoint_any>
+    <line_breakpoints default_suspend_policy="SuspendAll" default_condition_enabled="true">
+      <breakpoint url="file://$PROJECT_DIR$/src/test/java/LastFM_testNG/SampleTestNgTest.java" line="25" class="LastFM_testNG.SampleTestNgTest" package="LastFM_testNG">
+        <option name="ENABLED" value="true" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="REMOVE_AFTER_HIT" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+      <breakpoint url="file://$PROJECT_DIR$/src/test/java/LastFM_testNG/SampleTestNgTest.java" line="39" class="LastFM_testNG.SampleTestNgTest" package="LastFM_testNG">
+        <option name="ENABLED" value="true" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="REMOVE_AFTER_HIT" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+      <breakpoint url="file://$PROJECT_DIR$/src/test/java/LastFM_testNG/pages/TracksPage.java" line="51" class="LastFM_testNG.pages.TracksPage" package="LastFM_testNG.pages">
+        <option name="ENABLED" value="true" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="REMOVE_AFTER_HIT" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+      <breakpoint url="file://$PROJECT_DIR$/src/test/java/LastFM_testNG/pages/GeneralChartsPage.java" line="43" class="LastFM_testNG.pages.GeneralChartsPage" package="LastFM_testNG.pages">
+        <option name="ENABLED" value="true" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="REMOVE_AFTER_HIT" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+    </line_breakpoints>
     <breakpoint_rules />
     <ui_properties />
   </component>
@@ -151,33 +181,41 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="pom.xml" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pom.xml">
+      <file leaf-file-name="GeneralChartsPage.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/LastFM_testNG/pages/GeneralChartsPage.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="157" column="153" selection-start="4288" selection-end="4288" vertical-scroll-proportion="0.0">
+            <state line="37" column="43" selection-start="883" selection-end="883" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="GeneralChartsPage.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/LastFM_testNG/pages/GeneralChartsPage.java">
+      <file leaf-file-name="BandsPage.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/LastFM_testNG/pages/BandsPage.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="25" column="7" selection-start="588" selection-end="588" vertical-scroll-proportion="0.0">
+            <state line="29" column="22" selection-start="713" selection-end="713" vertical-scroll-proportion="0.0">
               <folding>
                 <element signature="imports" expanded="true" />
+                <element signature="e#594#602#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="TracksPage.java" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/test/java/LastFM_testNG/pages/TracksPage.java">
+      <file leaf-file-name="StorageDataFactory.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/LastFM_testNG/core/StorageDataFactory.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="42" column="24" selection-start="960" selection-end="960" vertical-scroll-proportion="0.50581396">
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state line="9" column="41" selection-start="163" selection-end="163" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DatabaseStorage.java" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/java/LastFM_testNG/core/DatabaseStorage.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="11" column="0" selection-start="179" selection-end="179" vertical-scroll-proportion="0.2142039">
+              <folding />
             </state>
           </provider>
         </entry>
@@ -186,35 +224,6 @@
         <entry file="file://$PROJECT_DIR$/src/test/java/LastFM_testNG/pages/Page.java">
           <provider selected="true" editor-type-id="text-editor">
             <state line="8" column="22" selection-start="221" selection-end="221" vertical-scroll-proportion="0.0">
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="TestNgTestBase.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/LastFM_testNG/TestNgTestBase.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="45" column="36" selection-start="1251" selection-end="1251" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="WebDriverFactory.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="jar://$MAVEN_REPOSITORY$/ru/stqa/selenium/webdriver-factory/1.1.46/webdriver-factory-1.1.46-sources.jar!/ru/stqa/selenium/factory/WebDriverFactory.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="33" column="26" selection-start="1057" selection-end="1057" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="DateTime.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="jar://$MAVEN_REPOSITORY$/joda-time/joda-time/2.8.1/joda-time-2.8.1-sources.jar!/org/joda/time/DateTime.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="255" column="11" selection-start="9389" selection-end="9389" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -223,18 +232,25 @@
       <file leaf-file-name="History.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/LastFM_testNG/objects/History.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="18" column="9" selection-start="293" selection-end="293" vertical-scroll-proportion="0.0">
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state line="13" column="13" selection-start="194" selection-end="194" vertical-scroll-proportion="0.0">
+              <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Track.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/LastFM_testNG/objects/Track.java">
+      <file leaf-file-name="MainPage.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/LastFM_testNG/pages/MainPage.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="17" column="3" selection-start="318" selection-end="318" vertical-scroll-proportion="0.0">
+            <state line="28" column="20" selection-start="620" selection-end="620" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="LastFMObjectFactory.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/LastFM_testNG/objects/LastFMObjectFactory.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="11" column="1" selection-start="172" selection-end="172" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -243,7 +259,16 @@
       <file leaf-file-name="Band.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/LastFM_testNG/objects/Band.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="14" column="20" selection-start="310" selection-end="310" vertical-scroll-proportion="0.0">
+            <state line="33" column="1" selection-start="577" selection-end="577" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="BasePage.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/LastFM_testNG/pages/BasePage.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="11" column="32" selection-start="195" selection-end="195" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -259,22 +284,22 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/src/test/java/LastFM_testNG/pages/HomePage.java" />
-        <option value="$PROJECT_DIR$/src/test/java/LastFM_testNG/pages/Page.java" />
-        <option value="$PROJECT_DIR$/src/test/java/LastFM_testNG/pages/BasePage.java" />
-        <option value="$PROJECT_DIR$/src/test/java/LastFM_testNG/TestNgTestBase.java" />
-        <option value="$PROJECT_DIR$/src/test/java/LastFM_testNG/pages/LoginPage.java" />
-        <option value="$PROJECT_DIR$/src/test/java/LastFM_testNG/pages/MainPage.java" />
-        <option value="$PROJECT_DIR$/src/test/java/LastFM_testNG/pages/GeneralChartsPage.java" />
         <option value="$PROJECT_DIR$/src/main/java/LastFM_testNG/Tracks.java" />
         <option value="$PROJECT_DIR$/src/test/java/LastFM_testNG/objects/Tracks.java" />
         <option value="$PROJECT_DIR$/src/test/java/LastFM_testNG/objects/Bands.java" />
-        <option value="$PROJECT_DIR$/src/test/java/LastFM_testNG/SampleTestNgTest.java" />
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/test/java/LastFM_testNG/objects/Band.java" />
         <option value="$PROJECT_DIR$/src/test/java/LastFM_testNG/objects/Track.java" />
         <option value="$PROJECT_DIR$/src/test/java/LastFM_testNG/objects/History.java" />
         <option value="$PROJECT_DIR$/src/test/java/LastFM_testNG/pages/TracksPage.java" />
+        <option value="$PROJECT_DIR$/src/test/java/LastFM_testNG/core/StorageDataFactory.java" />
+        <option value="$PROJECT_DIR$/src/test/java/LastFM_testNG/core/LastFMService.java" />
+        <option value="$PROJECT_DIR$/src/test/java/LastFM_testNG/core/DatabaseStorage.java" />
+        <option value="$PROJECT_DIR$/src/test/java/LastFM_testNG/pages/MainPage.java" />
+        <option value="$PROJECT_DIR$/src/test/java/LastFM_testNG/SampleTestNgTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/LastFM_testNG/objects/LastFMObjectFactory.java" />
+        <option value="$PROJECT_DIR$/src/test/java/LastFM_testNG/pages/BandsPage.java" />
+        <option value="$PROJECT_DIR$/src/test/java/LastFM_testNG/pages/GeneralChartsPage.java" />
       </list>
     </option>
   </component>
@@ -412,6 +437,36 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="util" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="LastFM_testNG" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="LastFM_testNG" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="LastFM_testNG" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="pages" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
@@ -443,6 +498,36 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="objects" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="LastFM_testNG" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="LastFM_testNG" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="LastFM_testNG" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="core" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -492,13 +577,13 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="GoToFile.includeJavaFiles" value="false" />
-    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="options.splitter.main.proportions" value="0.3" />
     <property name="recentsLimit" value="5" />
@@ -509,9 +594,9 @@
     <property name="GoToClass.toSaveIncludeLibraries" value="false" />
     <property name="MemberChooser.showClasses" value="true" />
     <property name="GoToClass.includeLibraries" value="false" />
-    <property name="options.searchVisible" value="true" />
-    <property name="options.splitter.details.proportions" value="0.2" />
     <property name="dynamic.classpath" value="false" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="options.searchVisible" value="true" />
   </component>
   <component name="RunManager" selected="TestNG.SampleTestNgTest.testLastFMLoginPage">
     <configuration default="false" name="SampleTestNgTest.testHomePageHasAHeader" type="TestNG" factoryName="TestNG" temporary="true">
@@ -627,19 +712,6 @@
       <option name="PORT" value="5005" />
       <method />
     </configuration>
-    <configuration default="true" type="Applet" factoryName="Applet">
-      <module name="" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="HTML_FILE_NAME" />
-      <option name="HTML_USED" value="false" />
-      <option name="WIDTH" value="400" />
-      <option name="HEIGHT" value="300" />
-      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
-      <option name="VM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <method />
-    </configuration>
     <configuration default="true" type="TestNG" factoryName="TestNG">
       <module name="" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
@@ -665,6 +737,19 @@
       <envs />
       <properties />
       <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <module name="" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="HTML_FILE_NAME" />
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <option name="VM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
       <method />
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
@@ -838,103 +923,9 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-support/2.46.0/selenium-support-2.46.0-sources.jar!/org/openqa/selenium/support/FindBy.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="17" column="35" selection-start="812" selection-end="839" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/LastFM_testNG/pages/MainPage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="26" column="46" selection-start="603" selection-end="622" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/LastFM_testNG/Tracks.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="18" selection-start="144" selection-end="144" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/LastFM_testNG/SampleTestNgTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="36" column="38" selection-start="1007" selection-end="1007" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/LastFM_testNG/objects/Band.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="20" selection-start="310" selection-end="310" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/LastFM_testNG/objects/Track.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="17" column="3" selection-start="318" selection-end="318" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/LastFM_testNG/pages/GeneralChartsPage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="25" column="7" selection-start="588" selection-end="588" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/LastFM_testNG/objects/History.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="18" column="9" selection-start="293" selection-end="293" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/joda-time/joda-time/2.8.1/joda-time-2.8.1.jar!/org/joda/time/DateTime.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="15" column="32" selection-start="666" selection-end="672" vertical-scroll-proportion="-3.08">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/joda-time/joda-time/2.8.1/joda-time-2.8.1-sources.jar!/org/joda/time/DateTime.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="255" column="11" selection-start="9389" selection-end="9389" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/LastFM_testNG/pages/Page.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="22" selection-start="221" selection-end="221" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/LastFM_testNG/TestNgTestBase.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="45" column="36" selection-start="1251" selection-end="1251" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/ru/stqa/selenium/webdriver-factory/1.1.46/webdriver-factory-1.1.46.jar!/ru/stqa/selenium/factory/WebDriverFactory.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="17" column="36" selection-start="734" selection-end="734" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="17" column="36" selection-start="734" selection-end="734" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/ru/stqa/selenium/webdriver-factory/1.1.46/webdriver-factory-1.1.46-sources.jar!/ru/stqa/selenium/factory/WebDriverFactory.java">
@@ -946,17 +937,104 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="157" column="153" selection-start="4288" selection-end="4288" vertical-scroll-proportion="0.0">
+        <state line="157" column="19" selection-start="4288" selection-end="4288" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/LastFM_testNG/pages/TracksPage.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="42" column="24" selection-start="960" selection-end="960" vertical-scroll-proportion="0.50581396">
+        <state line="53" column="23" selection-start="1557" selection-end="1557" vertical-scroll-proportion="0.0">
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/LastFM_testNG/core/LastFMService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="12" column="21" selection-start="190" selection-end="209" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/LastFM_testNG/SampleTestNgTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="38" column="0" selection-start="1094" selection-end="1094" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/LastFM_testNG/pages/MainPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="28" column="20" selection-start="620" selection-end="620" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/LastFM_testNG/objects/LastFMObjectFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="11" column="1" selection-start="172" selection-end="172" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/LastFM_testNG/pages/BasePage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="11" column="32" selection-start="195" selection-end="195" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/LastFM_testNG/pages/Page.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="22" selection-start="221" selection-end="221" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/LastFM_testNG/objects/History.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="13" selection-start="194" selection-end="194" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/LastFM_testNG/objects/Band.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="33" column="1" selection-start="577" selection-end="577" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/LastFM_testNG/pages/GeneralChartsPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="37" column="43" selection-start="883" selection-end="883" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/LastFM_testNG/pages/BandsPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="29" column="22" selection-start="713" selection-end="713" vertical-scroll-proportion="0.0">
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#594#602#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/LastFM_testNG/core/StorageDataFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="41" selection-start="163" selection-end="163" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/LastFM_testNG/core/DatabaseStorage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="11" column="0" selection-start="179" selection-end="179" vertical-scroll-proportion="0.2142039">
+          <folding />
         </state>
       </provider>
     </entry>

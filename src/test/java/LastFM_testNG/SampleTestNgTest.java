@@ -34,6 +34,7 @@ public class SampleTestNgTest extends TestNgTestBase {
     loginPage.setPassword("bfubhfwww");
     mainPage = loginPage.clickLoginButton();
     generalChartsPage = mainPage.clickLinkToCharts();
+    System.out.println(generalChartsPage.getGeneralCountOfTracks());
     tracksPage = generalChartsPage.clickLinkToTracks();
     tracksPage.clickSwitchToCompact().workWithTracks();
     System.out.println();
