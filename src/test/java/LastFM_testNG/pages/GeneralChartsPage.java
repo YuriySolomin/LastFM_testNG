@@ -18,8 +18,11 @@ public class GeneralChartsPage extends BasePage {
   @FindBy(css = ".recentTracksContainer a[href$='tracks']")
   public WebElement linkToTracksList;
 
-    @FindBy(css = ".module-body.chart.chartoverall.current a[href$='artists']")
-    private WebElement linkToBandsPage;
+  @FindBy(css = ".module-body.chart.chartoverall.current a[href$='artists']")
+  private WebElement linkToChartsPageArtists;
+
+  @FindBy(css = ".module-body.chart.chartoverall.current a[href$='tracks']")
+  private WebElement linkToChartsPageTracks;
 
   @FindBy(css = ".flip")
   public List<WebElement> partsOfGeneralCount;
@@ -34,10 +37,16 @@ public class GeneralChartsPage extends BasePage {
     return createPage(TracksPage.class);
   }
 
-    public BandsPage clickLinkToBands() {
-        linkToBandsPage.click();
-        return createPage(BandsPage.class);
+    public ChartsPage clickLinkToCharts() {
+        linkToChartsPageArtists.click();
+        return createPage(ChartsPage.class);
     }
+
+  public ChartsPage clickLinkToChartsTracks() {
+    linkToChartsPageTracks.click();
+    return createPage(ChartsPage.class);
+  }
+
 
   public long getGeneralCountOfTracks() {
     String result = "";
