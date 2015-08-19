@@ -16,7 +16,7 @@ public class HomePage extends Page {
   @CacheLookup
   public WebElement header;
 
-  @FindBy(how = How.ID, using = "login-link")
+  @FindBy(how = How.CSS, using = ".site-auth .auth-link.auth-login-link")
   public WebElement loginLink;
 
   public HomePage(WebDriver webDriver) {

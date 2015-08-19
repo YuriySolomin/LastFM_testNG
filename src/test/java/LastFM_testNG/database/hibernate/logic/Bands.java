@@ -18,6 +18,14 @@ public class Bands {
 
     private long idBand;
     private String nameBand;
+    private History history;
+    protected String bubu;
+
+    public Bands() {}
+
+    public Bands(String nameBand) {
+        this.nameBand = nameBand;
+    }
 
     @Id
     @GeneratedValue
@@ -37,5 +45,23 @@ public class Bands {
 
     public void setNameBand(String nameBand) {
         this.nameBand = nameBand;
+    }
+
+    @ManyToOne(fetch = FetchType.LAZY)
+    @JoinColumn(name = "id_band", insertable = false, updatable = false)
+    public History getHistory() {
+        return history;
+    }
+
+    public void setHistory(History history) {
+        this.history = history;
+    }
+
+    protected String getBubu() {
+        return bubu;
+    }
+
+    protected void setBubu(String bubu) {
+        this.bubu = bubu;
     }
 }

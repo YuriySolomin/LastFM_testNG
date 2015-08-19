@@ -14,13 +14,13 @@ import org.openqa.selenium.support.How;
  */
 public class LoginPage extends Page {
 
-  @FindBy(how = How.ID, using = "username")
+  @FindBy(how = How.ID, using = "id_username")
   public WebElement loginInput;
 
-  @FindBy(how = How.ID, using = "password")
+  @FindBy(how = How.ID, using = "id_password")
   public WebElement passwordInput;
 
-  @FindBy(how = How.NAME, using = "login")
+  @FindBy(how = How.NAME, using = "submit")
   public WebElement loginButton;
 
   public LoginPage(WebDriver webDriver) {

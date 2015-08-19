@@ -11,9 +11,9 @@ import java.util.List;
 /**
 
  */
-public class BandsImpl implements BandsActivity {
+public class BandsImpl implements GeneralActivity {
 
-    public void addBand(Bands band) {
+    public <T> void addObject(T band) {
         Session session = null;
         try {
             session = HibernateUtil.getSessionFactory().openSession();
@@ -29,6 +29,13 @@ public class BandsImpl implements BandsActivity {
             }
         }
     }
+
+    public <T> void deleteObject(T object) {}
+
+    public <T> T getObject(long objectId) {
+        return null;
+    }
+
 
     public List<Bands> getBandsByName(String name) {
         Session session = null;

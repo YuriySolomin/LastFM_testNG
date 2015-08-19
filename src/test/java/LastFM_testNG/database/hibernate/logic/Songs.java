@@ -24,6 +24,17 @@ public class Songs {
     private String songName;
     private String lfKey;
 
+    public Songs() {}
+
+    public Songs(long idBand, String songName, String lfKey) {
+        Bands bands = new Bands();
+        String k = bands.bubu;
+
+        this.idBand = idBand;
+        this.songName = songName;
+        this.lfKey = lfKey;
+    }
+
     @Id
     @GeneratedValue
     @Column(name = "id_song")

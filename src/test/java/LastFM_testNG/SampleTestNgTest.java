@@ -1,8 +1,10 @@
 package LastFM_testNG;
 
 import LastFM_testNG.database.hibernate.activity.BandsImpl;
+import LastFM_testNG.database.hibernate.activity.HistoryImpl;
 import LastFM_testNG.database.hibernate.activity.SongsImpl;
 import LastFM_testNG.database.hibernate.logic.Bands;
+import LastFM_testNG.database.hibernate.logic.History;
 import LastFM_testNG.database.hibernate.logic.Songs;
 import LastFM_testNG.pages.*;
 
@@ -12,11 +14,10 @@ import org.testng.annotations.Test;
 
 import java.util.List;
 
-public class SampleTestNgTest extends TestNgTestBase {
+public class SampleTestNgTest extends BaseAuthTests {
 
   private HomePage homePage;
   private LoginPage loginPage;
-  private MainPage mainPage;
   private GeneralChartsPage generalChartsPage;
   private TracksPage tracksPage;
 
@@ -29,6 +30,31 @@ public class SampleTestNgTest extends TestNgTestBase {
   public void testHomePageHasAHeader() {
     driver.get(baseUrl);
     Assert.assertFalse("".equals(homePage.header.getText()));
+  }
+
+    @Test
+    public void calc() {
+        System.out.println(mainPage.getTitle());
+        driver.get("http://www.last.fm/ru/user/YurijSol/library");
+        TracksPage tracksPage = page.createPage(TracksPage.class);
+        tracksPage = tracksPage.clickSelectedDiagramm("2008");
+        tracksPage.clickSelectedDiagramm("May 2008");
+    }
+
+  @Test
+  public void addHistory() {
+      driver.get(baseUrl);
+      loginPage = homePage.clickLoginLink();
+      loginPage.setLogin("YurijSol");
+      loginPage.setPassword("bfubhfwww");
+      mainPage = loginPage.clickLoginButton();
+      generalChartsPage = mainPage.clickLinkToCharts();
+      long count = generalChartsPage.getGeneralCountOfTracks();
+      long pages = count/50 + 1;
+      //tracksPage = generalChartsPage.clickLinkToTracks();
+      driver.get("http://www.lastfm.ru/user/YurijSol/tracks?view=compact&page=" + pages);
+      tracksPage = page.createPage(TracksPage.class);
+
   }
 
   @Test
@@ -44,7 +70,7 @@ public class SampleTestNgTest extends TestNgTestBase {
       Bands bands = new Bands();
       bands.setNameBand(name);
       BandsImpl bands1 = new BandsImpl();
-      bands1.addBand(bands);
+      bands1.addObject(bands);
     }
   }
 
@@ -65,15 +91,23 @@ public class SampleTestNgTest extends TestNgTestBase {
 
   @Test
   public void testLastFMLoginPage() {
-    driver.get(baseUrl);
-    loginPage = homePage.clickLoginLink();
-    loginPage.setLogin("YurijSol");
-    loginPage.setPassword("bfubhfwww");
-    mainPage = loginPage.clickLoginButton();
-    generalChartsPage = mainPage.clickLinkToCharts();
-    System.out.println(generalChartsPage.getGeneralCountOfTracks());
-    tracksPage = generalChartsPage.clickLinkToTracks();
-    tracksPage.clickSwitchToCompact().workWithTracks();
-    System.out.println();
+      driver.get(baseUrl);
+      loginPage = homePage.clickLoginLink();
+      loginPage.setLogin("YurijSol");
+      loginPage.setPassword("bfubhfwww");
+      mainPage = loginPage.clickLoginButton();
+      generalChartsPage = mainPage.clickLinkToCharts();
+      long count = generalChartsPage.getGeneralCountOfTracks();
+      long pages = count/50 + 1;
+      //tracksPage = generalChartsPage.clickLinkToTracks();
+      driver.get("http://www.lastfm.ru/user/YurijSol/tracks?view=compact&page=" + pages);
+      tracksPage = page.createPage(TracksPage.class);
+      List<History> historyList = tracksPage.clickSwitchToCompact().workWithTracks();
+      for (History history: historyList) {
+          HistoryImpl history1 = new HistoryImpl();
+          history1.addHistory(history);
+      }
+      System.out.println();
   }
+
 }

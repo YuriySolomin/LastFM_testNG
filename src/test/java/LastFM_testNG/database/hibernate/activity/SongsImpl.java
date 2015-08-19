@@ -1,5 +1,6 @@
 package LastFM_testNG.database.hibernate.activity;
 
+import LastFM_testNG.database.hibernate.logic.Bands;
 import LastFM_testNG.database.hibernate.logic.Songs;
 import LastFM_testNG.database.hibernate.utils.HibernateUtil;
 import org.hibernate.Query;
@@ -36,7 +37,7 @@ public class SongsImpl implements SongsActivity {
         List<Songs> result = new ArrayList<Songs>();
         try {
             session = HibernateUtil.getSessionFactory().openSession();
-            Query query = session.createQuery("from Songs where songBand = :name");
+            Query query = session.createQuery("from Songs where songName = :name");
             query.setString("name", name);
             result = query.list();
         } catch (Exception e) {
@@ -52,6 +53,7 @@ public class SongsImpl implements SongsActivity {
     }
 
     public Songs getSongsById(long id) {
+
         Session session = null;
         Songs result = null;
         try {

@@ -11,6 +11,7 @@
         <!--        <mapping jar="hibernate-mappings.jar"/> -->
         <mapping class="LastFM_testNG.database.hibernate.logic.Bands"/>
         <mapping class="LastFM_testNG.database.hibernate.logic.Songs"/>
+        <mapping class="LastFM_testNG.database.hibernate.logic.History"/>
         <!--<mapping class="com.lastfm.database.entities.LfHistory"/> -->
         <!--<mapping class="com.lastfm.database.entities.LfSingers"/> -->
     </session-factory>

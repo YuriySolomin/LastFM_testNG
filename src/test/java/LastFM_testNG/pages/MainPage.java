@@ -18,7 +18,7 @@ public class MainPage extends Page {
 
   private final String myLastFMChartsLink = "http://www.lastfm.ru/user/YurijSol";
 
-  @FindBy(css = ".user-badge")
+  @FindBy(css = ".site-auth .dropdown-inner-wrap")
   public WebElement linkToChartsPage;
 
 
